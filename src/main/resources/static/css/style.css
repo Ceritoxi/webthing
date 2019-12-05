@@ -1,0 +1,21 @@
+section {
+	margin: 2% 1%;
+}
+
+th, {
+	font-weight: bold;
+}
+
+#login {
+	width: 16rem;
+}
+
+.loginmain section {
+	margin-left: 10%;
+}
+
+.loginhead {
+	color: #fff;
+	text-align: center;
+	padding: 5% 0;
+}
